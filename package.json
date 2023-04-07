@@ -1,0 +1,22 @@
+{
+  "name": "penktadienio_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "praktika-7": "nodemon ./praktika-7.js",
+    "praktika-6": "nodemon ./praktika-6.js",
+    "praktika-5": "nodemon ./praktika-5.js",
+    "praktika-4": "nodemon ./praktika-4.js",
+    "praktika-3": "nodemon ./praktika-3.js",
+    "praktika-2": "nodemon ./praktika-2.js",
+    "praktika-1": "nodemon ./praktika-1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rolandas <rolandas.tverijonas021@gmail.com> (https://github.com/Rolandas021)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
